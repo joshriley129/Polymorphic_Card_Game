@@ -1,0 +1,24 @@
+﻿  Bless.cpp
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Bless.cpp(24,38): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Bless.cpp(26,8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Bless.cpp(51,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Bless.cpp(51,39): warning C4018: '<': signed/unsigned mismatch
+  Card.cpp
+  Fireball.cpp
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Fireball.cpp(20,33): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  Horde.cpp
+  Leech.cpp
+  Lightning.cpp
+  Main.cpp
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Main.cpp(52,42): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Main.cpp(62,41): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Main.cpp(73,39): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\New FireBreak\Main.cpp(83,44): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+  Minion.cpp
+  Player.cpp
+  Spell.cpp
+  Trample.cpp
+  Vampire.cpp
+  Wall.cpp
+  Generating Code...
+  New FireBreak.vcxproj -> C:\Users\joshr\Desktop\Finished Assignments\Year 2\Advanced Programming\Firebrick\New FireBreak\Debug\New FireBreak.exe

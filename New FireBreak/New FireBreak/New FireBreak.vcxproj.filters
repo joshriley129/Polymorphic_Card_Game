@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Minions">
+      <UniqueIdentifier>{f727e545-cf3d-4f4f-a176-e192a45bb257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Spells">
+      <UniqueIdentifier>{ee95f205-d40d-44ef-8a3c-971a5a966f16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Minions">
+      <UniqueIdentifier>{fae6863f-59f4-4916-8786-431a623ef43d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Spells">
+      <UniqueIdentifier>{48b55cd9-22a7-4ce2-beef-437118f8547f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Minion.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Leech.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Vampire.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Trample.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Horde.cpp">
+      <Filter>Source Files\Minions</Filter>
+    </ClCompile>
+    <ClCompile Include="Spell.cpp">
+      <Filter>Source Files\Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="Bless.cpp">
+      <Filter>Source Files\Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="Fireball.cpp">
+      <Filter>Source Files\Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="Lightning.cpp">
+      <Filter>Source Files\Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Minion.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Horde.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Leech.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Trample.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Vampire.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Header Files\Minions</Filter>
+    </ClInclude>
+    <ClInclude Include="Fireball.h">
+      <Filter>Header Files\Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="Bless.h">
+      <Filter>Header Files\Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="Lightning.h">
+      <Filter>Header Files\Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="Spell.h">
+      <Filter>Header Files\Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
